@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QuotesWithImplictIntent</string>
+    <string name="txt_body">You might only want to allow cleartext while debugging, but keep the security benefits of rejecting cleartext in production. This is useful for me because I test my app against a development server that does not support https. Here is how to enforce https in production, but allow cleartext in debug mode:</string>
+</resources>
